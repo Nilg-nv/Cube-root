@@ -19,7 +19,7 @@ int main() {
 		}
 		yi1 = 0.5*(yi + 3*x/(2*pow(yi,2)+x/yi));
 		i++;	
-		cout << yi1 << endl;
+
 	}
 	cout << round(yi1) << endl;
 	system("pause");
